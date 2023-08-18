@@ -1,0 +1,5 @@
+Toeic 3
+Apple 1
+English 9
+Math 14
+Speak 5
